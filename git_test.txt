@@ -1,1 +1,1 @@
-git test  updating    
+git test  updating    这是我git使用设置
